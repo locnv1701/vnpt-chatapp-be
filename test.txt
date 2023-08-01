@@ -1,0 +1,22 @@
+const person1 = {
+            name: "mo", //"dell",
+            registrationToken: "cHAz16E_9HVnLj8-4WfP_d:APA91bGpTtQMaY8GK-nfFyteROxY0IQ7HYlke4zKVLety9swivNLhBaOvdsF9yaTUQQN0dr6-EIEd_-K1MqyVOpSVvQT8ZBKHqX_URh7p-ioT-F72xOtOfEnXMuls1rZVJZQDBD-Xo8l",
+            avatar: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dell_Logo.svg/1200px-Dell_Logo.svg.png"
+        };
+        const person2 = {
+            name: "mon", //"samsung"
+            registrationToken: "cFvptaQvR4vN0AhyzkDGWu:APA91bHopI6VaBfH-Isa_V1-OGb8gibEsNYHwLwk_0uRJqsIstc3gBojlnTDZehaQAfpmFI_KTLitXuukLWxjZ3W2sTdiTsMtocalsyHW8NHO1dX9c5ggELBUQLAPDPkOYst_KuXFKu7",
+            avatar: "https://files.cults3d.com/uploaders/15233766/illustration-file/aa2d2760-2b33-4de3-a7fe-7bc28a3fb3c2/132.jpeg"
+        };
+
+        const person3 = {
+            name: "spiderman", //"asus",
+            registrationToken: "fGNwQ0hvIv1jOVOmCYPJY5:APA91bFsGODY43uktgWafkI3cqQty97H-seaHDrmeWCBw0oAGAhj5uVEdfEQC7Pqyisfll-O75OauoDxfbwLIPT4YmTjuLwYizjsrwoSRDpef_-SaVMrsFkXEXtkMrAqrHVYoY4SpEq-",
+            avatar: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQN_abxNMdRgzBsSC3vQV3V9CIvBsV9jjTmRM4q1mnxC-7rJuCLZFN-rRXW8ZPkcRvfDs&usqp=CAU"
+        };
+
+        const person4 = {
+            name: "mo1", //"dell",
+            registrationToken: "cHAz16E_9HVnLj8-4WfP_d:APA91bGpTtQMaY8GK-nfFyteROxY0IQ7HYlke4zKVLety9swivNLhBaOvdsF9yaTUQQN0dr6-EIEd_-K1MqyVOpSVvQT8ZBKHqX_URh7p-ioT-F72xOtOfEnXMuls1rZVJZQDBD-Xo8l",
+            avatar: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMnEVHE4JQscvu-8erPNABqVk-4rJcDVw0vw&usqp=CAU"
+        };
